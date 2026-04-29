@@ -1,6 +1,6 @@
 # Burger Order App 🍔
 
-![App Preview](menuscreen.png)
+![App Preview](menu screen.png)
 
 ## 📌 Overview
 This is a UI/UX design project for a food delivery mobile application designed using Figma. The goal was to create a simple, fast, and user-friendly ordering experience.
